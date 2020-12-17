@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.navbar a img{
+    max-width: 60px;
+    max-height: 60px;
+    margin-left: 40px;
+    margin-right: 50px;
+}
+
+.nav-link {
+  
+}
